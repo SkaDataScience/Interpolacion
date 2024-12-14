@@ -85,6 +85,6 @@ Este proyecto está bajo una licencia de uso restringido. Consulte el archivo LI
 
 ## Autor
 
-Luis Alberto Baca Guerrero
+Addis Scarlett Abalco Dias
 Universidad San Francisco de Quito
 Máster en Ciencia de Datos
