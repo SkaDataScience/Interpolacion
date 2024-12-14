@@ -85,6 +85,8 @@ Este proyecto está bajo una licencia de uso restringido. Consulte el archivo LI
 
 ## Autor
 
-Addis Scarlett Abalco Dias/n
-Universidad San Francisco de Quito/n
+Addis Scarlett Abalco Dias
+
+Universidad San Francisco de Quito
+
 Máster en Ciencia de Datos
